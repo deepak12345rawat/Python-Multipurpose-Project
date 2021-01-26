@@ -1,0 +1,7 @@
+### Install this requirements before starting , using pip install -r requirements.txt ###
+PyQt5
+numpy
+opencv-python
+pytesseract
+translate
+gTTS
